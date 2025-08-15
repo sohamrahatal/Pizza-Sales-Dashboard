@@ -79,6 +79,9 @@ To deliver an interactive analytical tool that:
 ### 6. 🖼 Screenshots
 
 **Dashboard Preview:**  
-![Dashboard Preview](https://github.com/sohamrahatal/Pizza-Sales-Dashboard/blob/main/Home%20Page.png)  
+1. Home Page
+![Dashboard Preview](https://github.com/sohamrahatal/Pizza-Sales-Dashboard/blob/main/Home%20Page.png)
+
+2. Best/Worst Seller Page
 ![Dashboard Preview](https://github.com/sohamrahatal/Pizza-Sales-Dashboard/blob/main/Best%20%26%20Worst%20seller%20Page.png)  
 [🔝 Back to top](#-pizza-sales-report--dashboard)
